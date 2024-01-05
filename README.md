@@ -1,2 +1,2 @@
 # planteg
-mantenimiento en computo y dispositivos mobiles 
+INSTALACIONES Y MANTENIMIENTO
